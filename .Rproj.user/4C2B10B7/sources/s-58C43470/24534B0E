@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533344715143.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "24534B0E",
+    "lastKnownWriteTime" : 1533374301,
+    "last_content_update" : 1533374301323,
+    "path" : "C:/R/project180721/PLOTDEMO.R",
+    "project_path" : "PLOTDEMO.R",
+    "properties" : {
+        "cursorPosition" : "316,20",
+        "scrollLine" : "313",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

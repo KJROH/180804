@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533342899633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "68DDD75",
+    "lastKnownWriteTime" : 1533344705,
+    "last_content_update" : 1533344705984,
+    "path" : "C:/R/project180721/pro180804.R",
+    "project_path" : "pro180804.R",
+    "properties" : {
+        "cursorPosition" : "49,39",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
